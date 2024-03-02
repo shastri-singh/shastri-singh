@@ -9,7 +9,7 @@ I work as an ICT Technician full-time while independently studying to become a F
 * 🌍  I'm based in Trinidad & Tobago
 * 🖥️  See my portfolio at [shastrisingh.com](http://shastrisingh.com)
 * ✉️  You can contact me at [singhshastri@outlook.com](mailto:singhshastri@outlook.com)
-* 🧠  I'm learning CSS, Bootstrap, Tailwind, Javascript, Flutter, Python andPHP
+* 🧠  I'm learning CSS, Bootstrap, Tailwind, Javascript, Flutter, Python and PHP
 * 🤝  I'm open to collaborating on challenges via Frontend Mentor and assist on other frontend projects
 
 ### Skills
